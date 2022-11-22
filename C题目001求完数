@@ -28,7 +28,7 @@ int main()
    {
         if(fun(s))
       {
-           printf("%d\n"); 
+           printf("%d\n",s); 
       }
    }
 }
